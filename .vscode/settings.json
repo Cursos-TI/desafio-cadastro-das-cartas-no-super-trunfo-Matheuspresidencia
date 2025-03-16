@@ -1,0 +1,5 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+     int "main"(){
+          printf('Desafio Xadrez!\n');
+     }
