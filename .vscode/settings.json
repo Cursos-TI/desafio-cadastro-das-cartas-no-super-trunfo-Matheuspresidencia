@@ -1,6 +1,19 @@
-{
-    "githubPullRequests.ignoredPullRequestBranches": [
-     int "main"(){
-          printf('Desafio Xadrez!\n');
-          printf("novo commit\n");
-     }
+#include <stdio.h>
+ 
+int mai(){ 
+   int pontosturisticos=20
+   int Populacâo=20000.00
+   char estado=B
+   char codigo={B01}
+   char nome=Brasilia
+   float area=60.0000
+   float pib=70.000.000.00
+   
+
+
+
+
+
+
+
+ }
