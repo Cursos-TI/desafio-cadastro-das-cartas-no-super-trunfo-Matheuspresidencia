@@ -7,6 +7,11 @@ int mai(){
     char estado = 'B';
     char codigo = "b01";
     char nome [10] = "brasilia";
+    float area = 60000.00;
+    float pib = 70.00000;
+    
+
+
 
 
 
