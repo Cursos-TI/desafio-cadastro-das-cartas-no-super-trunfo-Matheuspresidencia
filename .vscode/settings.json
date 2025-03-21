@@ -1,13 +1,26 @@
 #Include <stdio.h>
 
 int mai(){ 
-   int pontosturisticos=20
-   int Populacâo=20000.00
-   char estado=B
-   char codigo={B01}
-   char nome=Brasilia
-   float area=60.0000
-   float pib=70.000.000.00
+    int idade;
+    float altura; 
+    char nome[50];
+    int matricula;
+
+    printf("digite sua idade: \n");
+    scanf("%d" ,&idade);
+
+     printf("digite sua altura: \n");
+     scanf("%f" ,&float);
+
+     printf("digite seu nome: \n");
+     scanf("%s", &nome);
+
+     printf("digite sua matricula: \n");
+     scanf("%d",&matricula);
+
+
+
+
 
 
 

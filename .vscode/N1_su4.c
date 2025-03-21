@@ -3,13 +3,13 @@
 int mai(){
 
     int pontosturisticos = 20;
-    int populacâo = 200;
+    int Populacão = 30.00000;
     char estado = 'B';
     char codigo = "b01";
     char nome [10] = "brasilia";
-    float area = 60000.00;
+    float area = 60.00000;
     float pib = 70.00000;
-    
+
 
 
 
