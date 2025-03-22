@@ -1,22 +1,7 @@
 #Include <stdio.h>
 
 int mai(){ 
-    int idade;
-    float altura; 
-    char nome[50];
-    int matricula;
-
-    printf("digite sua idade: \n");
-    scanf("%d" ,&idade);
-
-     printf("digite sua altura: \n");
-     scanf("%f" ,&float);
-
-     printf("digite seu nome: \n");
-     scanf("%s", &nome);
-
-     printf("digite sua matricula: \n");
-     scanf("%d",&matricula);
+    
 
 
 

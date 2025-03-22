@@ -10,11 +10,5 @@ int mai(){
     float area = 60.00000;
     float pib = 70.00000;
 
-
-
-
-
-
-
-
+    
 }
