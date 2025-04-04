@@ -9,7 +9,12 @@ int main() {
     float area = 26.000;
     float pib = 84.2;
 
-    //
+    //printf("digite seu codigo: \n" );
+    //pritf("digite seu nome: \n" );
+    //printf("digite a cidade: \n" );
+    //printf("digite os PontosTuristicos: \n");
+    //printf("digite a area: \n ");
+    //printf("digite o pib: \n" );
 
 
 
