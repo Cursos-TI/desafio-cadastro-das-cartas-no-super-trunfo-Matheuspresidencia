@@ -10,13 +10,15 @@ int main() {
     float pib = 84.2;
 
     //printf("digite seu codigo\n" );
+    //scanf("%c", &codigo);
+    
     //pritf("digite seu nome\n" );
     //printf("digite a cidade\n" );
     //printf("digite os Pontos Turisticos\n");
     //printf("digite a area\n ");
     //printf("digite o pib\n" );
 
-    
+
 
     return 0;
 }
