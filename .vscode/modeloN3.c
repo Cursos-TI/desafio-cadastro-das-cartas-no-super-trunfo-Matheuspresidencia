@@ -1,29 +1,19 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 int main() {
-    int opção;
-    float saldo = 1000.00;
+    int EscolhaJogador, EscolhaComputador;
+    srand(time(0));
 
+    printf("jogo de Jokenpo\n");
     printf("escolha uma opção:\n");
-    printf("1. verificar saldo:\n");
-    printf("2. fazer deposito:\n");
-    printf("3. fazer saque\n");
-    scanf("%d", &opção);
+    printf("1. pedra\n");
+    printf("2. papel\n");
+    printf("3. tesoura\n");
+    printf("escolha: \n");
+    scanf("%d", &EscolhaJogador);
+    
 
-    swuitch(opção)
-    {
-    case 1:
-        printf(" O seu saldo è: R$ %f\n", saldo);
-       break;
-    case 2:
-        printf("Digite o banco que deseja depositar");
-        printf("Digite a agencia que deseja depositar");
-        printf("Digite a conta que deseja depositar");
-       break;
-    case 3:
-        printf("Digite o valor que deseja sacer");
 
-    default:
-        printf("opção invalida!");
-    break;
 }
