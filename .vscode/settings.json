@@ -1,6 +1,9 @@
 #Include <stdio.h>
 
-int mai(){ 
+int main(){ 
+    
+
+
     
 
 
